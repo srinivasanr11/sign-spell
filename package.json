@@ -7,7 +7,7 @@
     "dev": "vite",
     "lint": "eslint .",
     "preview": "vite preview",
-    "build": "tsc -p tsconfig.build.json && vite build"
+    "build": "tsc && vite build"
   },
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.11",
