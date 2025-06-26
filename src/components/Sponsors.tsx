@@ -18,23 +18,23 @@ import logo5 from "../assets/LoginHomeassests/kce-logo-.svg";
 const sponsors: SponsorProps[] = [
   {
     logo: logo1, // Use the imported logo variable
-    name: "",
+    name: " ",
   },
   {
     logo: logo2,
-    name: "",
+    name: " ",
   },
   {
     logo: logo3,
-    name: "",
+    name: " ",
   },
   {
     logo: logo4,
-    name: "",
+    name: " ",
   },
   {
     logo: logo5,
-    name: "",
+    name: " ",
   },
   
 ];
