@@ -136,7 +136,7 @@ export const Footer = () => {
             <a
               rel="noreferrer noopener"
               target="_blank"
-              href="https://www.linkedin.com/in/leopoldo-miranda/"
+              href="https://www.linkedin.com/in/"
               className="text-green-400 hover:text-green-300 transition-all border-b border-transparent hover:border-green-300"
             >
               Machine Maestros
